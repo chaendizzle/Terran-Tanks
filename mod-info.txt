@@ -1,0 +1,7 @@
+[mod]
+title: Starcraft Units
+description: Adds a multitude of units from Starcraft: Brood War and Starcraft II.
+
+tags: starting-units, units
+
+thumbnail: thumbnail.png
