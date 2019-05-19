@@ -4,7 +4,7 @@ The [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1474414933]EK - 
 
 Units added:
 Terran: Battlecruiser, Dropship, Goliath, Marine, Missile Turret, Siege Tank, Valkyrie, Vulture, Wraith
-Protoss: Carrier, Dragoon, Void Ray, Zealot
+Protoss: Archon, Carrier, Dragoon, High Templar, Void Ray, Zealot
 Zerg: Hydralisk
 
 
@@ -31,9 +31,13 @@ Zerg: Hydralisk
 
 ---PROTOSS---
 
+ - Archon: A powerful psionic entity with a large amount of shields and a powerful splash-damage melee attack. Easily destroyed by anti-shield and shield-piercing units, but is effective at soaking up damage and destroying groups of small units. Created by transforming a High Templar into an Archon.
+
  - Carrier: Large, expensive shielded airship that cannot attack, but can create masses of cheap interceptors that swarm an area, and then expire after a period of time. Building interceptors costs credits, and managing the interceptor counts can require a higher degree of micromanagement than with most units. The interceptors can attack both land and air. The carrier is built from the Tier 2 Air Factory.
 
  - Dragoon: Heavily armored and shielded robotic walker with a photon cannon that attacks both land and air targets. Does not deal much damage per second, but has a high health pool. Built from the Tier 1 Land Factory.
+
+ - High Templar: A fragile spellcaster that can summon powerful psionic storms. These storms deal damage over time in a large area of effect, and can singlehandedly destroy masses of air and ground units. High Templar can also transform into an Archon, a powerful psionic entity with a large amount of shields and a powerful splash damage attack. High Templar also have a weak lightning attack against ground and air. Built from the Experimental Factory.
 
  - Void Ray: Anti-Shield cruiser armed with a heavy laser. Does high shield damage, but struggles against masses of units and non-shielded targets. Can use Prismatic Alignment to temporarily double attack power for 10 seconds. Can attack both land and air. Built from the Tier 2 Air Factory.
 
