@@ -5,7 +5,7 @@ The [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1474414933]EK - 
 Units added:
 Terran: Battlecruiser, Dropship, Goliath, Marine, Missile Turret, Siege Tank, Valkyrie, Vulture, Wraith
 Protoss: Archon, Carrier, Dragoon, High Templar, Void Ray, Zealot
-Zerg: Hydralisk
+Zerg: Hydralisk, Ultralisk, Zergling
 
 
 ---TERRAN---
@@ -47,6 +47,10 @@ Zerg: Hydralisk
 ---ZERG---
 
  - Hydralisk: Lightly armored biological alien that can shoot spines at enemies. Does high damage per second, but is weak to splash damage. Can attack both land and air. Built from the Tier 1 Land Factory.
+
+ - Ultralisk: Gigantic armored alien creature that can sustain a lot of damage and rip targets apart with its claws. Good at soaking up damage and dealing damage to single targets, but weak to masses of ranged units and armor-piercing attacks. Built from the Experimental Factory.
+
+ - Zergling: Dog-like biological alien that runs quickly and can attack with claws. Good for scouting and early game harrassment, but is easily destroyed by any splash damage attacks. Built from the Tier 1 Land Factory.
 
 
 ---JOKE UNITS---
