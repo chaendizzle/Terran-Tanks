@@ -5,7 +5,7 @@ The [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1474414933]EK - 
 Units added:
 Terran: Battlecruiser, Dropship, Goliath, Marine, Missile Turret, Siege Tank, Valkyrie, Vulture, Wraith
 Protoss: Archon, Carrier, Dragoon, High Templar, Void Ray, Zealot
-Zerg: Hydralisk, Roach, Ultralisk, Zergling
+Zerg: Hydralisk, Roach, Swarm Host, Ultralisk, Zergling
 
 
 ---TERRAN---
@@ -49,6 +49,8 @@ Zerg: Hydralisk, Roach, Ultralisk, Zergling
  - Hydralisk: Lightly armored biological alien that can shoot spines at enemies. Does high damage per second, but is weak to splash damage. Can attack both land and air. Built from the Tier 1 Land Factory.
 
  - Roach: Armored biological crawler that can spit acid at enemies. Has a lot of health for its cost, and can also burrow underground to rapidly regenerate health. Strong when used in small groups, but loses effectiveness when facing splash damage or units that can shoot its burrowed form. The roach can only shoot land targets, so air units are effective against roaches as well. Built from the Tier 1 Land Factory.
+
+ - Swarm Host: Armored creature that cannot attack directly, but can periodically spawn free locusts that spit acid spines. Locusts have a powerful land-only attack, but automatically expire after enough time passes. Good for sieging a lightly defended area for free, but has no defenses against air and is also vulnerable while preparing the next locust wave. Built from the Tier 2 Land Factory.
 
  - Ultralisk: Gigantic armored alien creature that can sustain a lot of damage and rip targets apart with its claws. Good at soaking up damage and dealing damage to single targets, but weak to masses of ranged units and armor-piercing attacks. Built from the Experimental Factory.
 
