@@ -5,7 +5,7 @@ Join our Discord: [url=https://discord.gg/xtjbY68]https://discord.gg/xtjbY68[/ur
 The [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1474414933]EK - Sylvian Mettle[/url] mod is recommended to be played with this mod for balance reasons, since otherwise many of these units are overpowered.
 
 Units added:
-Terran: Battlecruiser, Dropship, Firebat, Goliath, Marine, Missile Turret, Siege Tank, Valkyrie, Vulture, Wraith
+Terran: Battlecruiser, Dropship, Firebat, Ghost, Goliath, Marine, Missile Turret, Siege Tank, Valkyrie, Vulture, Wraith
 Protoss: Archon, Carrier, Dragoon, High Templar, Void Ray, Zealot
 Zerg: Hydralisk, Roach, Swarm Host, Ultralisk, Zergling
 
@@ -17,6 +17,8 @@ Zerg: Hydralisk, Roach, Swarm Host, Ultralisk, Zergling
  - Dropship: Cheap and effective transport aircraft. Cannot attack, but can transport up to 8 units. Built from the Tier 1 Air Factory.
 
  - Firebat: Flamethrower infantry unit with high health and splash damage for its cost, but short range. Trades very well against large numbers of small, low-health units, but is weak against air units, splash damage, and large, heavily armored units. Can attack land only. Built from the Tier 1 Land Factory.
+
+ - Ghost: Psionic infantry unit that can cloak, snipe targets, knock out shields, and nuke locations. Very effective as a support unit against shielded units as well as large, tanky units, and also good at breaking stalemates using nukes, but requires a lot of micromanagement to use correctly. Built from the Experimental Factory.
 
  - Goliath: Balanced anti-air missile mech that also has a chaingun attack against land targets. Built from the Tier 2 Mech Factory.
 
