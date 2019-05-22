@@ -1,5 +1,7 @@
 Adds a multitude of units from Starcraft: Brood War and Starcraft II.
 
+Join our Discord: [url=https://discord.gg/xtjbY68]https://discord.gg/xtjbY68[/url]
+
 The [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1474414933]EK - Sylvian Mettle[/url] mod is recommended to be played with this mod for balance reasons, since otherwise many of these units are overpowered.
 
 Units added:
