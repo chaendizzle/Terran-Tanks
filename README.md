@@ -3,7 +3,7 @@ Adds a multitude of units from Starcraft: Brood War and Starcraft II.
 The [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1474414933]EK - Sylvian Mettle[/url] mod is recommended to be played with this mod for balance reasons, since otherwise many of these units are overpowered.
 
 Units added:
-Terran: Battlecruiser, Dropship, Goliath, Marine, Missile Turret, Siege Tank, Valkyrie, Vulture, Wraith
+Terran: Battlecruiser, Dropship, Firebat, Goliath, Marine, Missile Turret, Siege Tank, Valkyrie, Vulture, Wraith
 Protoss: Archon, Carrier, Dragoon, High Templar, Void Ray, Zealot
 Zerg: Hydralisk, Roach, Swarm Host, Ultralisk, Zergling
 
