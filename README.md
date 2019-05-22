@@ -14,6 +14,8 @@ Zerg: Hydralisk, Roach, Swarm Host, Ultralisk, Zergling
 
  - Dropship: Cheap and effective transport aircraft. Cannot attack, but can transport up to 8 units. Built from the Tier 1 Air Factory.
 
+ - Firebat: Flamethrower infantry unit with high health and splash damage for its cost, but short range. Trades very well against large numbers of small, low-health units, but is weak against air units, splash damage, and large, heavily armored units. Can attack land only. Built from the Tier 1 Land Factory.
+
  - Goliath: Balanced anti-air missile mech that also has a chaingun attack against land targets. Built from the Tier 2 Mech Factory.
 
  - Marine: Cheap, quick infantry unit with high damage for its cost. Can use Stim Pack to temporarily increase fire rate and movement speed at the cost of health. Very weak against splash damage. Can attack both land and air. Built from the Tier 1 Land Factory.
