@@ -54,7 +54,7 @@ Zerg: Brood Lord, Corruptor, Hydralisk, Roach, Swarm Host, Ultralisk, Zergling
 
  - Brood Lord: Biological siege unit with long range and an anti-ground attack. Attacks not only deal heavy damage, but also spawn free melee units on the ground. Strong against masses of weak units and static defenses, but has no defenses against air units or strong, mobile ground-based anti-air. Created by morphing a Corruptor into a Brood Lord.
 
- - Corruptor: Tentacled flier with a powerful single target anti-air attack. Extremely heavily armored, and practically immune to small arms fire. Very strong against large air units, but has no anti-ground attack, and is thus weak to any ground-based anti-air or static defenses. Created from the Tier 2 Air Factory.
+ - Corruptor: Tentacled flier with a powerful single target anti-air attack. Extremely heavily armored, and practically immune to small arms fire. Very strong against large air units, but its slow attack means it is weak against masses of small air units. Corruptors also have no anti-ground attack, and are thus weak to any ground-based anti-air or static defenses. Created from the Tier 2 Air Factory.
 
  - Hydralisk: Lightly armored biological alien that can shoot spines at enemies. Does high damage per second, but is weak to splash damage. Can attack both land and air. Built from the Tier 1 Land Factory.
 
