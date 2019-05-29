@@ -7,7 +7,7 @@ The [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1474414933]EK - 
 Units added:
 Terran: Battlecruiser, Dropship, Firebat, Ghost, Goliath, Marine, Missile Turret, Siege Tank, Valkyrie, Vulture, Wraith
 Protoss: Archon, Carrier, Dragoon, High Templar, Void Ray, Zealot
-Zerg: Brood Lord, Corruptor, Hydralisk, Roach, Swarm Host, Ultralisk, Zergling
+Zerg: Brood Lord, Corruptor, Hydralisk, Infestor, Roach, Swarm Host, Ultralisk, Zergling
 
 
 ---TERRAN---
@@ -57,6 +57,8 @@ Zerg: Brood Lord, Corruptor, Hydralisk, Roach, Swarm Host, Ultralisk, Zergling
  - Corruptor: Tentacled flier with a powerful single target anti-air attack. Extremely heavily armored, and practically immune to small arms fire. Very strong against large air units, but its slow attack means it is weak against masses of small air units. Corruptors also have no anti-ground attack, and are thus weak to any ground-based anti-air or static defenses. Created from the Tier 2 Air Factory.
 
  - Hydralisk: Lightly armored biological alien that can shoot spines at enemies. Does high damage per second, but is weak to splash damage. Can attack both land and air. Built from the Tier 1 Land Factory.
+
+ - Infestor: Psionic creature that cannot attack, but can spawn infested marines and spit blinding clouds that prevent enemy ranged attacks in an area. Can also burrow underground and move while burrowed to avoid detection. A very powerful support unit against air units and immobile defenses, but requires the support of other units. Weak against mobile armies and units that can shoot at cloaked targets. Built from the Experimental Factory.
 
  - Roach: Armored biological crawler that can spit acid at enemies. Has a lot of health for its cost, and can also burrow underground to rapidly regenerate health. Strong when used in small groups, but loses effectiveness when facing splash damage or units that can shoot its burrowed form. The roach can only shoot land targets, so air units are effective against roaches as well. Built from the Tier 1 Land Factory.
 
