@@ -2,6 +2,6 @@
 title: Starcraft Units
 description: Adds a multitude of units from Starcraft: Brood War and Starcraft II.
 
-tags: starting-units, units
+tags: units, starting-units
 
 thumbnail: thumbnail.png
