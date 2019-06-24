@@ -5,8 +5,8 @@ Join our Discord: [url=https://discord.gg/xtjbY68]https://discord.gg/xtjbY68[/ur
 The [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1474414933]EK - Sylvian Mettle[/url] mod is recommended to be played with this mod for balance reasons, since otherwise many of these units are overpowered.
 
 Units added:
-Terran: Battlecruiser, Dropship, Firebat, Ghost, Goliath, Marine, Missile Turret, Siege Tank, Valkyrie, Vulture, Wraith
-Protoss: Archon, Carrier, Dragoon, High Templar, Void Ray, Zealot
+Terran: Battlecruiser, Dropship, Firebat, Ghost, Goliath, Marauder, Marine, Missile Turret, Siege Tank, Thor, Valkyrie, Vulture, Wraith
+Protoss: Archon, Carrier, Dragoon, High Templar, Stalker, Void Ray, Zealot
 Zerg: Brood Lord, Corruptor, Hydralisk, Infestor, Roach, Swarm Host, Ultralisk, Zergling
 
 
@@ -22,11 +22,15 @@ Zerg: Brood Lord, Corruptor, Hydralisk, Infestor, Roach, Swarm Host, Ultralisk, 
 
  - Goliath: Balanced anti-air missile mech that also has a chaingun attack against land targets. Built from the Tier 2 Mech Factory.
 
+ - Marauder: Heavily armored, single-target anti-ground infantry unit. Can often take out large ground-based single targets without dying too quickly to splash damage. Can only attack land. Built from the Tier 2 Land Factory.
+
  - Marine: Cheap, quick infantry unit with high damage for its cost. Can use Stim Pack to temporarily increase fire rate and movement speed at the cost of health. Very weak against splash damage. Can attack both land and air. Built from the Tier 1 Land Factory.
 
  - Missile Turret: Anti-air turret with a devastating splash-damage missile attack. Can also shoot cloaked (and underwater) units. Built by the builder.
 
  - Siege Tank: Tank unit that can transform between a mobile, short-range tank mode, and an immobile, long-range siege mode. Siege mode can effectively destroy groups of small units and static defenses, but cannot easily escape danger. Can attack land only. Built from the Tier 2 Land Factory.
+
+ - Thor: Walking gun battery with powerful weapons against both ground and air. Strong against all air targets, but weak against masses of small ground units. Built from the Tier 2 Mech Factory.
 
  - Valkyrie: Fast-firing missile cruiser that deals splash damage. Can attack both land and air, but is more effective against air targets. Strong against groups of air units, and weak to anti-air defenses and large, heavy-hitting single targets. Built from the Tier 2 Air Factory.
 
@@ -44,6 +48,8 @@ Zerg: Brood Lord, Corruptor, Hydralisk, Infestor, Roach, Swarm Host, Ultralisk, 
  - Dragoon: Heavily armored and shielded robotic walker with a photon cannon that attacks both land and air targets. Does not deal much damage per second, but has a high health pool. Built from the Tier 1 Land Factory.
 
  - High Templar: A fragile spellcaster that can summon powerful psionic storms. These storms deal damage over time in a large area of effect, and can singlehandedly destroy masses of air and ground units. High Templar can also transform into an Archon, a powerful psionic entity with a large amount of shields and a powerful splash damage attack. High Templar also have a weak lightning attack against ground and air. Built from the Experimental Factory.
+
+ - Stalker: Fast, lightly shielded robotic walker that can teleport short distances. Highly mobile and can be used to outmaneuver slower enemies, but weak in direct engagements. Can attack both ground and air. Built from the Tier 1 Mech Factory.
 
  - Void Ray: Anti-Shield cruiser armed with a heavy laser. Does high shield damage, but struggles against masses of units and non-shielded targets. Can use Prismatic Alignment to temporarily double attack power for 10 seconds. Can attack both land and air. Built from the Tier 2 Air Factory.
 
