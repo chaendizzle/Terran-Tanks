@@ -6,8 +6,8 @@ The [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1474414933]EK - 
 
 Units added:
 Terran: Battlecruiser, Dropship, Firebat, Ghost, Goliath, Marauder, Marine, Missile Turret, Siege Tank, Thor, Valkyrie, Vulture, Wraith
-Protoss: Archon, Carrier, Dragoon, High Templar, Stalker, Void Ray, Zealot
-Zerg: Brood Lord, Corruptor, Hydralisk, Infestor, Roach, Swarm Host, Ultralisk, Zergling
+Protoss: Archon, Carrier, Dragoon, High Templar, Immortal, Phoenix, Stalker, Void Ray, Zealot
+Zerg: Brood Lord, Corruptor, Hydralisk, Infestor, Ravager, Roach, Swarm Host, Ultralisk, Zergling
 
 
 ---TERRAN---
@@ -49,6 +49,10 @@ Zerg: Brood Lord, Corruptor, Hydralisk, Infestor, Roach, Swarm Host, Ultralisk, 
 
  - High Templar: A fragile spellcaster that can summon powerful psionic storms. These storms deal damage over time in a large area of effect, and can singlehandedly destroy masses of air and ground units. Built from the Experimental Factory.
 
+ - Immortal: Hard-hitting and extremely durable robotic walker that attacks land targets. Can activate a barrier shield to become temporarily invulnerable. Built from the Tier 2 Mech Factory.
+
+ - Phoenix: Sturdy, yet very mobile air superiority fighter. Built from the Tier 1 Air Factory.
+
  - Stalker: Fast, lightly shielded robotic walker that can teleport short distances. Can attack both ground and air. Built from the Tier 1 Mech Factory.
 
  - Void Ray: Anti-Shield cruiser armed with a heavy laser. Does high shield damage, but struggles against masses of units and non-shielded targets. Can attack both land and air. Built from the Tier 2 Air Factory.
@@ -65,6 +69,8 @@ Zerg: Brood Lord, Corruptor, Hydralisk, Infestor, Roach, Swarm Host, Ultralisk, 
  - Hydralisk: Lightly armored biological alien that can shoot spines at enemies. Can attack both land and air. Built from the Tier 1 Land Factory.
 
  - Infestor: Psionic creature that cannot attack, but can spawn infested marines and spit blinding clouds that prevent enemy ranged attacks in an area. Built from the Experimental Factory.
+
+ - Ravager: Armored biological crawler that spits bile at enemies, and can launch large balls of corrosive bile that deals damage to a target area. Created by morphing a Roach into a Ravager.
 
  - Roach: Armored biological crawler that can spit acid at enemies. Built from the Tier 1 Land Factory.
 

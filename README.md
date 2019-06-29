@@ -6,8 +6,8 @@ The [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1474414933]EK - 
 
 Units added:
 Terran: Battlecruiser, Dropship, Firebat, Ghost, Goliath, Marauder, Marine, Missile Turret, Siege Tank, Thor, Valkyrie, Vulture, Wraith
-Protoss: Archon, Carrier, Dragoon, High Templar, Stalker, Void Ray, Zealot
-Zerg: Brood Lord, Corruptor, Hydralisk, Infestor, Roach, Swarm Host, Ultralisk, Zergling
+Protoss: Archon, Carrier, Dragoon, High Templar, Immortal, Phoenix, Stalker, Void Ray, Zealot
+Zerg: Brood Lord, Corruptor, Hydralisk, Infestor, Ravager, Roach, Swarm Host, Ultralisk, Zergling
 
 
 ---TERRAN---
@@ -49,6 +49,10 @@ Zerg: Brood Lord, Corruptor, Hydralisk, Infestor, Roach, Swarm Host, Ultralisk, 
 
  - High Templar: A fragile spellcaster that can summon powerful psionic storms. These storms deal damage over time in a large area of effect, and can singlehandedly destroy masses of air and ground units. High Templar can also transform into an Archon, a powerful psionic entity with a large amount of shields and a powerful splash damage attack. High Templar also have a weak lightning attack against ground and air. Built from the Experimental Factory.
 
+ - Immortal: Hard-hitting and extremely durable robotic walker that attacks land targets. Can activate a barrier shield to become temporarily invulnerable. Great against hard-hitting land targets, but cannot attack air. Built from the Tier 2 Mech Factory.
+
+ - Phoenix: Sturdy, yet very mobile air superiority fighter. Can activate Graviton Beam to temporarily shoot land targets. Built from the Tier 1 Air Factory.
+
  - Stalker: Fast, lightly shielded robotic walker that can teleport short distances. Highly mobile and can be used to outmaneuver slower enemies, but weak in direct engagements. Can attack both ground and air. Built from the Tier 1 Mech Factory.
 
  - Void Ray: Anti-Shield cruiser armed with a heavy laser. Does high shield damage, but struggles against masses of units and non-shielded targets. Can use Prismatic Alignment to temporarily double attack power for 10 seconds. Can attack both land and air. Built from the Tier 2 Air Factory.
@@ -65,6 +69,8 @@ Zerg: Brood Lord, Corruptor, Hydralisk, Infestor, Roach, Swarm Host, Ultralisk, 
  - Hydralisk: Lightly armored biological alien that can shoot spines at enemies. Does high damage per second, but is weak to splash damage. Can attack both land and air. Built from the Tier 1 Land Factory.
 
  - Infestor: Psionic creature that cannot attack, but can spawn infested marines and spit blinding clouds that prevent enemy ranged attacks in an area. Can also burrow underground and move while burrowed to avoid detection. A very powerful support unit against air units and immobile defenses, but requires the support of other units. Weak against mobile armies and units that can shoot at cloaked targets. Built from the Experimental Factory.
+
+ - Ravager: Armored biological crawler that spits bile at enemies, and can launch large balls of corrosive bile that deals damage to a target area. Launching corrosive bile can deal significant splash damage and even hit air targets, but the projectile can be dodged. Created by morphing a Roach into a Ravager.
 
  - Roach: Armored biological crawler that can spit acid at enemies. Has a lot of health for its cost, and can also burrow underground to rapidly regenerate health. Strong when used in small groups, but loses effectiveness when facing splash damage or units that can shoot its burrowed form. The roach can only shoot land targets, so air units are effective against roaches as well. Built from the Tier 1 Land Factory.
 
