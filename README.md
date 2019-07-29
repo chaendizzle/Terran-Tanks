@@ -5,8 +5,8 @@ Join our Discord: [url=https://discord.gg/xtjbY68]https://discord.gg/xtjbY68[/ur
 The [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1474414933]EK - Sylvian Mettle[/url] mod is recommended to be played with this mod for balance reasons, since otherwise many of these units are overpowered.
 
 Units added:
-Terran: Battlecruiser, Dropship, Firebat, Ghost, Goliath, Marauder, Marine, Missile Turret, Siege Tank, Thor, Valkyrie, Vulture, Wraith
-Protoss: Archon, Carrier, Dragoon, High Templar, Immortal, Phoenix, Stalker, Void Ray, Zealot
+Terran: Battlecruiser, Dropship, Firebat, Ghost, Goliath, Liberator, Marauder, Marine, Missile Turret, Siege Tank, Thor, Valkyrie, Vulture, Wraith
+Protoss: Archon, Carrier, Colossus, Dragoon, High Templar, Immortal, Phoenix, Stalker, Void Ray, Zealot
 Zerg: Brood Lord, Corruptor, Hydralisk, Infestor, Ravager, Roach, Swarm Host, Ultralisk, Zergling
 
 
@@ -21,6 +21,8 @@ Zerg: Brood Lord, Corruptor, Hydralisk, Infestor, Ravager, Roach, Swarm Host, Ul
  - Ghost: Psionic infantry unit that can cloak, snipe targets, knock out shields, and nuke locations. Very effective as a support unit against shielded units as well as large, tanky units, and also good at breaking stalemates using nukes, but requires a lot of micromanagement to use correctly. Built from the Experimental Factory.
 
  - Goliath: Balanced anti-air missile mech that also has a chaingun attack against land targets. Built from the Tier 2 Mech Factory.
+
+ - Liberator: Splash-damage anti-air fighter that can transform into a anti-ground defender mode with a powerful single-target attack. Can only attack air in fighter mode, and can only attack land in defender mode. Built from the Tier 2 Air Factory.
 
  - Marauder: Heavily armored, single-target anti-ground infantry unit. Can often take out large ground-based single targets without dying too quickly to splash damage. Can only attack land. Built from the Tier 2 Land Factory.
 
@@ -44,6 +46,8 @@ Zerg: Brood Lord, Corruptor, Hydralisk, Infestor, Ravager, Roach, Swarm Host, Ul
  - Archon: A powerful psionic entity with a large amount of shields and a powerful splash-damage melee attack. Easily destroyed by anti-shield and shield-piercing units, but is effective at soaking up damage and destroying groups of small units. Created by transforming a High Templar into an Archon.
 
  - Carrier: Large, expensive shielded airship that cannot attack, but can create masses of cheap interceptors that swarm an area, and then expire after a period of time. Building interceptors costs credits, and managing the interceptor counts can require a higher degree of micromanagement than with most units. The interceptors can attack both land and air. The carrier is built from the Tier 2 Air Factory.
+
+ - Colossus: Gigantic robotic walker that obliterates weaker land units with its twin long-range thermal lances. Deals heavy splash damage, but is weak to large single targets. Can only attack land. Built from the Tier 2 Mech Factory.
 
  - Dragoon: Heavily armored and shielded robotic walker with a photon cannon that attacks both land and air targets. Does not deal much damage per second, but has a high health pool. Built from the Tier 1 Land Factory.
 

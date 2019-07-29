@@ -22,6 +22,8 @@ Zerg: Brood Lord, Corruptor, Hydralisk, Infestor, Ravager, Roach, Swarm Host, Ul
 
  - Goliath: Balanced anti-air missile mech that also has a chaingun attack against land targets. Built from the Tier 2 Mech Factory.
 
+ - Liberator: Splash-damage anti-air fighter that can transform into a anti-ground defender mode with a powerful single-target attack. Built from the Tier 2 Air Factory.
+
  - Marauder: Heavily armored, single-target anti-ground infantry unit. Can only attack land. Built from the Tier 2 Land Factory.
 
  - Marine: Cheap, quick infantry unit with high damage for its cost. Very weak against splash damage. Can attack both land and air. Built from the Tier 1 Land Factory.
@@ -44,6 +46,8 @@ Zerg: Brood Lord, Corruptor, Hydralisk, Infestor, Ravager, Roach, Swarm Host, Ul
  - Archon: A powerful psionic entity with a large amount of shields and a powerful splash-damage melee attack. Created by transforming a High Templar into an Archon.
 
  - Carrier: Large, expensive shielded airship that cannot attack, but can create masses of cheap interceptors that swarm an area, and then expire after a period of time. The interceptors can attack both land and air. The carrier is built from the Tier 2 Air Factory.
+
+ - Colossus: Gigantic robotic walker that obliterates weaker land units with its twin long-range thermal lances. Can only attack land. Built from the Tier 2 Mech Factory.
 
  - Dragoon: Heavily armored and shielded robotic walker with a photon cannon that attacks both land and air targets. Built from the Tier 1 Land Factory.
 
